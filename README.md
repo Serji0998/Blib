@@ -14,6 +14,7 @@ For Librarian:
 - Create New Member
 - Access subscribers Info.
 - Return book Manually.
+- Extend Reservation
 - Freeze/Activate subscriber membership.
 
 # Participated roles:
