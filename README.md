@@ -14,6 +14,7 @@ For Librarian:
 - Create New Member.
 - Return book Manually.
 - Extend Reservation.
+- Access Subscrber info.
 
 # Participated roles:
 - Librarian
