@@ -1,0 +1,12 @@
+
+.button:hover
+{
+	-fx-background-color:  #0090ff ;
+	 -fx-effect: dropshadow(two-pass-box , darkgray, 10, 0.0 , 4, 5);
+	
+}
+
+.button:pressed
+{
+	-fx-background-color: #007ad8 ;
+}
