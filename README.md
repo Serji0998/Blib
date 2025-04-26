@@ -11,9 +11,9 @@ For Subscribers:
   
 For Librarian:
 - Add book copy to library.
-- Create New Member
+- Create New Member.
 - Return book Manually.
-- Extend Reservation
+- Extend Reservation.
 
 # Participated roles:
 - Librarian
