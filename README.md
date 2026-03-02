@@ -55,7 +55,7 @@ The system utilizes a relational database to maintain data integrity across:
    git clone [https://github.com/Serji0998/Blib.git](https://github.com/Serji0998/Blib.git)
 
 ## 🎓 Academic Context: Mid-Semester Project
-This project was developed during my **Software Engineering degree (Semester 6)**. The primary focus was transitioning from individual coding to a professional, team-based development environment.
+This project was developed during my **Software Engineering degree**. The primary focus was transitioning from individual coding to a professional, team-based development environment.
 
 ### 🎯 Key Learning Objectives:
 
